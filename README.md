@@ -12,11 +12,13 @@ This project is a simple frontend web page developed for **Task 1 – Web Page /
 
 ## Project Structure
 gdg-webpage/
-│
-├── index.html # Main HTML file
-├── style.css # CSS styling and animations
-├── images/ # Folder containing logo and other images
-└── README.md # Project documentation
+├── index.html        # Main HTML file
+├── style.css         # CSS styling and animations
+├── images/           # Folder for logo and other images
+│   └── logo.png      # logo file
+├── script.js          # JavaScript files
+└── README.md         # Project documentation
+
 
 ## How to Run
 1. Clone the repository:
@@ -35,3 +37,4 @@ Responsive layout design
 
 Author: Mamathi Sathiya
 GitHub: mamathi27
+
