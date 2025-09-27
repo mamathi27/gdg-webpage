@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GDSC Tech Connect 2025</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <img src="assests\gdsc_logo.png" alt="GDSC Logo" class="logo" />
+    <h1>GDSC Tech Connect 2025</h1>
+    <p class="subtitle">Innovation | Networking | Growth</p>
+  </header>
+
+  <main>
+    <!-- Event Details -->
+    <section class="event-info">
+      <h2>Event Details</h2>
+      <p><strong>Date:</strong> October 15, 2025</p>
+      <button id="toggleSchedule">View Schedule</button>
+
+      <div id="schedule" class="hidden">
+        <ul>
+          <li>10:00 AM – Opening Ceremony</li>
+          <li>11:30 AM – Keynote: AI & the Future</li>
+          <li>1:00 PM – Lunch & Networking</li>
+          <li>2:00 PM – Workshops & Hackathon</li>
+          <li>6:00 PM – Closing & Awards</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Registration Form -->
+    <section class="form-section">
+      <h2>Register Now</h2>
+      <form id="registerForm">
+        <label for="name">Full Name</label>
+        <input type="text" id="name" placeholder="Your Name" required />
+
+        <label for="email">Email</label>
+        <input type="email" id="email" placeholder="you@example.com" required />
+
+        <label for="interest">Area of Interest</label>
+        <select id="interest" required>
+          <option value="">Select</option>
+          <option value="ai">Artificial Intelligence</option>
+          <option value="web">Web Development</option>
+          <option value="mobile">Mobile Apps</option>
+          <option value="cloud">Cloud Computing</option>
+        </select>
+
+        <button type="submit">Submit</button>
+      </form>
+      <p id="formMsg"></p>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2025 Google Developer Student Clubs | Designed for Learning</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
