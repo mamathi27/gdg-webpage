@@ -3,6 +3,8 @@
 ## Overview
 This project is a simple frontend web page developed for **Task 1 – Web Page / Frontend Development**. The webpage is designed using **HTML**, **CSS**, and includes **animations and transitions** to enhance user experience. A custom logo is used, and the background colors have been adjusted to match the theme of the site.
 
+🔗 **Live Demo:** [[https://taskmanagerweb.fwh.is](https://clinquant-daffodil-1d2101.netlify.app/)]
+
 ## Features
 - Responsive design using HTML and CSS
 - Animated elements and smooth transitions
@@ -51,3 +53,4 @@ Author
 
 Mamathi Sathiya
 GitHub: mamathi27
+
