@@ -22,26 +22,32 @@ gdg-webpage/
 
 ```
 
+
 ## How to Run
 
-
 1. Clone the repository:
+
+```bash
 git clone https://github.com/mamathi27/gdg-webpage.git
-
+```
 2.Navigate to the project directory:
+```bash
 cd gdg-webpage
-
+```
 3.Open index.html in your web browser.
 
-##Technologies Used
+
+Technologies Used
 
 HTML5
+
 CSS3 (including animations and transitions)
+
 Web-safe fonts
+
 Responsive layout design
 
-Author: Mamathi Sathiya
+Author
+
+Mamathi Sathiya
 GitHub: mamathi27
-
-
-
