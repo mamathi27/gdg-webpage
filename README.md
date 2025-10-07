@@ -40,7 +40,7 @@ cd gdg-webpage
 
 
 ##Technologies Used
-
+```bash
 HTML5
 
 CSS3 (including animations and transitions)
@@ -48,11 +48,12 @@ CSS3 (including animations and transitions)
 Web-safe fonts
 
 Responsive layout design
-
+```
 Author
 
 Mamathi Sathiya
 GitHub: mamathi27
+
 
 
 
