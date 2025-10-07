@@ -39,7 +39,7 @@ cd gdg-webpage
 3.Open index.html in your web browser.
 
 
-##Technologies Used
+## Technologies Used
 ```bash
 HTML5
 
@@ -53,6 +53,7 @@ Author
 
 Mamathi Sathiya
 GitHub: mamathi27
+
 
 
 
